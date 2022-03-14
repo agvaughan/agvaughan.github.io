@@ -26,4 +26,4 @@ Recent Projects
 - Novel approaches to model optimization in the context of AI fairness
 - Bayesian modeling of the real-wold impact of model metrics on AI fariness
 - Deep learning models for subspace mapping
-- Model-based inference about how neuronal computation is implemented in the brain.
+- Model-based inference about how neuronal computation is implemented in the brain.	
