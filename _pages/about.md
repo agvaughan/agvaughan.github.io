@@ -12,8 +12,9 @@ redirect_from:
 I work across Biotech and Tech, with a core goal of using computational and biological tools to change the world in intersting ways.
 
 
-Experience:
-- Chief Science Officer, Pymetrics, Inc (2020-2022)
+Experience
+-------
+- Chief Science Officer, Pymetrics, Inc
 - Mentor, I-Corps NYC (2022)
 - Founder, AI for Good NYC (2021)
 - Scientific Co-Founder, Cajal Neuroscience (2018-)
@@ -23,11 +24,10 @@ Experience:
 - Stanford University (Kennedy Fellowship) / Janelia HHMI (2005-2012)
 
 
-Recent Projects
+(Recent) Projects
 -------
 - Novel ML approaches to model optimization in the context of AI fairness
 - Bayesian modeling of the real-wold impact of model metrics, 
 - Deep learning models for subspace mapping
 - Computational demixing of in-situ sequencing data
 - Model-based inference about how neuronal computation is implemented in the brain.
-
