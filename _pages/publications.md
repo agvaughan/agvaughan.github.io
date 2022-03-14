@@ -11,7 +11,7 @@ author_profile: true
  -->
 {% include base_path %}
 
-<p>You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u></p>
+<p>You can also find my work on my <a href="https://scholar.google.com/citations?user=4K8JDZEAAAAJ&hl=en">Google Scholar profile</a>.</p>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
