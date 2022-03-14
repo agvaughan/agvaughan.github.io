@@ -3,10 +3,10 @@ title: "Frontal cortex neuron types categorically encode single decision variabl
 collection: publications
 permalink: /publication/2019-01-01-Frontal cortex neuron types categorically encode single decision variables (Nature)
 date: 2019-01-01
-venue: 'J Hirokawa, <b>AG Vaughan, P Masset, T Ott, A Kepecs</b>'
+venue: '<i>Nature 576 (7787), 446-451 75</i>'
 paperurl: 'http://agvaughan.github.io/files/Hirokawa_Vaughan_2019.pdf'
-citation: '<i>Nature 576 (7787), 446-451 75</i>'
+citation: 'J Hirokawa, <b>AG Vaughan, P Masset, T Ott, A Kepecs</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Hirokawa_Vaughan_2019.pdf)
 
-Recommended citation: <i>Nature 576 (7787), 446-451 75</i>
+Recommended citation: J Hirokawa, <b>AG Vaughan, P Masset, T Ott, A Kepecs</b>

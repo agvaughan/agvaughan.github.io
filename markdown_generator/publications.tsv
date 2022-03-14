@@ -1,4 +1,4 @@
-pub_date	title	venue	citation	url_slug	paper_url
+pub_date	title	citation	venue	url_slug	paper_url
 2021-01-01	Mixseq: mixture sequencing using compressed sensing for in-situ and in-vitro applications (2021)	AM Zador, <b>AG Vaughan</b>	<i>US Patent App. PCT/US2020/066,853</i>	Mixseq: mixture sequencing using compressed sensing for in-situ and in-vitro applications (Patent)	http://agvaughan.github.io/files/Vaughan_MIXSEQ_WO2021133911A1.pdf
 2021-01-01	Barcode demixing through non-negative spatial regression (bardensr) (2021)	S Chen, J Loper, X Chen, <b>AG Vaughan, AM Zador, L Paninski</b>	<i>PLoS computational biology 17 (3), e1008256 5</i>	Barcode demixing through non-negative spatial regression (bardensr)	http://agvaughan.github.io/files/Chen_Vaughan_Paninski.pdf
 2019-01-01	Frontal cortex neuron types categorically encode single decision variables (2019)	J Hirokawa, <b>AG Vaughan, P Masset, T Ott, A Kepecs</b>	<i>Nature 576 (7787), 446-451 75</i>	Frontal cortex neuron types categorically encode single decision variables (Nature)	http://agvaughan.github.io/files/Hirokawa_Vaughan_2019.pdf

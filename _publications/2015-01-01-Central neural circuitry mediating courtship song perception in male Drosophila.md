@@ -3,10 +3,10 @@ title: "Central neural circuitry mediating courtship song perception in male Dro
 collection: publications
 permalink: /publication/2015-01-01-Central neural circuitry mediating courtship song perception in male Drosophila
 date: 2015-01-01
-venue: 'C Zhou, R Franconville, <b>AG Vaughan, CC Robinett, V Jayaraman, ...</b>'
+venue: '<i>Elife 4, e08477 68</i>'
 paperurl: 'http://agvaughan.github.io/files/Zhou_2016.pdf'
-citation: '<i>Elife 4, e08477 68</i>'
+citation: 'C Zhou, R Franconville, <b>AG Vaughan, CC Robinett, V Jayaraman, ...</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Zhou_2016.pdf)
 
-Recommended citation: <i>Elife 4, e08477 68</i>
+Recommended citation: C Zhou, R Franconville, <b>AG Vaughan, CC Robinett, V Jayaraman, ...</b>
