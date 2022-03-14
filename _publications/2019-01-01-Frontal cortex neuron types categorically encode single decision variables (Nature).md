@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Hirokawa_Vaughan_2019.pdf'
 citation: 'J Hirokawa, <b>AG Vaughan, P Masset, T Ott, A Kepecs</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Hirokawa_Vaughan_2019.pdf)
-
-Recommended citation: J Hirokawa, <b>AG Vaughan, P Masset, T Ott, A Kepecs</b>

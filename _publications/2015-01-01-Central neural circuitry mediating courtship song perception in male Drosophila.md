@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Zhou_2016.pdf'
 citation: 'C Zhou, R Franconville, <b>AG Vaughan, CC Robinett, V Jayaraman, ...</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Zhou_2016.pdf)
-
-Recommended citation: C Zhou, R Franconville, <b>AG Vaughan, CC Robinett, V Jayaraman, ...</b>

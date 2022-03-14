@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Chen_Vaughan_Paninski.pdf'
 citation: 'S Chen, J Loper, X Chen, <b>AG Vaughan, AM Zador, L Paninski</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Chen_Vaughan_Paninski.pdf)
-
-Recommended citation: S Chen, J Loper, X Chen, <b>AG Vaughan, AM Zador, L Paninski</b>

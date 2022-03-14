@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Vaughan_2014.pdf'
 citation: '<b>AG Vaughan, C Zhou, DS Manoli, BS Baker</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Vaughan_2014.pdf)
-
-Recommended citation: <b>AG Vaughan, C Zhou, DS Manoli, BS Baker</b>

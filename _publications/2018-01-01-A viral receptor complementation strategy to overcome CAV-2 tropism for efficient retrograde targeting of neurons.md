@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Li_Vaughan_Sturgill_Kepecs_2018.pdf'
 citation: 'SJ Li, <b>AG Vaughan, JF Sturgill, A Kepecs</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Li_Vaughan_Sturgill_Kepecs_2018.pdf)
-
-Recommended citation: SJ Li, <b>AG Vaughan, JF Sturgill, A Kepecs</b>

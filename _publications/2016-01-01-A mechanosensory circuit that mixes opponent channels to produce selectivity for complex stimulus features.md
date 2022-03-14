@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Chang_Vaughan_Wilson_2016.pdf'
 citation: 'AEB Chang, <b>AG Vaughan, RI Wilson</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Chang_Vaughan_Wilson_2016.pdf)
-
-Recommended citation: AEB Chang, <b>AG Vaughan, RI Wilson</b>

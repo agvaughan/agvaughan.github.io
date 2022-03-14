@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Senturk_2016.pdf'
 citation: 'S Senturk, NH Shirole, DG Nowak, V Corbo, D Pal, <b>AG Vaughan, ...</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Senturk_2016.pdf)
-
-Recommended citation: S Senturk, NH Shirole, DG Nowak, V Corbo, D Pal, <b>AG Vaughan, ...</b>

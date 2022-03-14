@@ -5,8 +5,6 @@ permalink: /publication/2009-01-01-Manipulation of an innate escape response in 
 date: 2009-01-01
 venue: '<i>PloS one 4 (4), e5100 27</i>'
 paperurl: 'http://agvaughan.github.io/files/Zimmerman.pdf'
-citation: 'G Zimmermann, L Wang, <b>AG Vaughan</b>, DS Manoli, F Zhang, K Deisseroth, ...'
+citation: 'G Zimmermann, L Wang, <b>AG Vaughan, DS Manoli, F Zhang, K Deisseroth, ...</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Zimmerman.pdf)
-
-Recommended citation: G Zimmermann, L Wang, <b>AG Vaughan, DS Manoli, F Zhang, K Deisseroth, ...</b>

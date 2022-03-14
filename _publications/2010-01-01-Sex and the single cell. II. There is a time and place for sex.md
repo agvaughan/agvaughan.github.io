@@ -8,5 +8,3 @@ paperurl: 'http://agvaughan.github.io/files/Robinett_Vaughan.pdf'
 citation: 'CC Robinett, <b>AG Vaughan, JM Knapp, BS Baker</b>'
 ---
 [Download paper here](http://agvaughan.github.io/files/Robinett_Vaughan.pdf)
-
-Recommended citation: CC Robinett, <b>AG Vaughan, JM Knapp, BS Baker</b>
