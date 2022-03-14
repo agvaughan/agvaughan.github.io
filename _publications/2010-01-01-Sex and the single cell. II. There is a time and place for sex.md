@@ -5,6 +5,6 @@ permalink: /publication/2010-01-01-Sex and the single cell. II. There is a time 
 date: 2010-01-01
 venue: 'PLoS biology 8 (5), e1000365 193'
 paperurl: 'http://agvaughan.github.io/files/Robinett_Vaughan.pdf'
-citation: 'CC Robinett, <b>AG Vaughan, JM Knapp, BS Baker</b>'
+citation: 'CC Robinett, <b>AG Vaughan</b>, JM Knapp, BS Baker'
 ---
 [Download paper here](http://agvaughan.github.io/files/Robinett_Vaughan.pdf)

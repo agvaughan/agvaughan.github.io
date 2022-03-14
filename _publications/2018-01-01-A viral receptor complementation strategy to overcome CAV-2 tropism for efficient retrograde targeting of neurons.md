@@ -5,6 +5,6 @@ permalink: /publication/2018-01-01-A viral receptor complementation strategy to 
 date: 2018-01-01
 venue: 'Neuron 98 (5), 905-917. e541'
 paperurl: 'http://agvaughan.github.io/files/Li_Vaughan_Sturgill_Kepecs_2018.pdf'
-citation: 'SJ Li, <b>AG Vaughan, JF Sturgill, A Kepecs</b>'
+citation: 'SJ Li, <b>AG Vaughan</b>, JF Sturgill, A Kepecs'
 ---
 [Download paper here](http://agvaughan.github.io/files/Li_Vaughan_Sturgill_Kepecs_2018.pdf)
