@@ -36,6 +36,11 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+
+        {% elsif page.collection == 'publications' %}
+          <!-- <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+          <p>{{ post.citation }}<br><i>{{ post.venue }}</i></p>
+
         {% elsif page.venue and page.date %}
           <!-- <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
  -->
@@ -47,8 +52,12 @@ layout: default
         
              
         {% if page.citation and page.paperurl %}
+
+          <p>{{ post.citation }}<br><i>{{ post.venue }}</i></p>
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+        
         {% elsif page.citation %}
+
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
     
