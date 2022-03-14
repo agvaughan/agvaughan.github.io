@@ -3,7 +3,7 @@ title: "Barcode demixing through non-negative spatial regression (bardensr) (202
 collection: publications
 permalink: /publication/2021-01-01-Barcode demixing through non-negative spatial regression (bardensr)
 date: 2021-01-01
-venue: '<i>PLoS computational biology 17 (3), e1008256 5</i>'
+venue: 'PLoS computational biology 17 (3), e1008256 5'
 paperurl: 'http://agvaughan.github.io/files/Chen_Vaughan_Paninski.pdf'
 citation: 'S Chen, J Loper, X Chen, <b>AG Vaughan, AM Zador, L Paninski</b>'
 ---

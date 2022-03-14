@@ -3,8 +3,8 @@ title: "Rapid and tunable method to temporally control gene editing based on con
 collection: publications
 permalink: /publication/2017-01-01-Rapid and tunable method to temporally control gene editing based on conditional Cas9 stabilization
 date: 2017-01-01
-venue: '<i>Nature Communications 8 (1), 1-10 104</i>'
+venue: 'Nature Communications 8 (1), 1-10 104'
 paperurl: 'http://agvaughan.github.io/files/Senturk_2016.pdf'
-citation: 'S Senturk, NH Shirole, DG Nowak, V Corbo, D Pal, <b>AG Vaughan, ...</b>'
+citation: 'S Senturk, NH Shirole, DG Nowak, V Corbo, D Pal, <b>AG Vaughan</b>, ...'
 ---
 [Download paper here](http://agvaughan.github.io/files/Senturk_2016.pdf)

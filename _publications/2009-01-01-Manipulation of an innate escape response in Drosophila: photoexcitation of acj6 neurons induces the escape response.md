@@ -3,7 +3,7 @@ title: "Manipulation of an innate escape response in Drosophila: photoexcitation
 collection: publications
 permalink: /publication/2009-01-01-Manipulation of an innate escape response in Drosophila: photoexcitation of acj6 neurons induces the escape response
 date: 2009-01-01
-venue: '<i>PloS one 4 (4), e5100 27</i>'
+venue: 'PloS one 4 (4), e5100 27'
 paperurl: 'http://agvaughan.github.io/files/Zimmerman.pdf'
 citation: 'G Zimmermann, L Wang, <b>AG Vaughan, DS Manoli, F Zhang, K Deisseroth, ...</b>'
 ---

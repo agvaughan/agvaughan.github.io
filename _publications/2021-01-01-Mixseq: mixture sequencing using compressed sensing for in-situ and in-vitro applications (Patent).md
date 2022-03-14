@@ -3,7 +3,7 @@ title: "Mixseq: mixture sequencing using compressed sensing for in-situ and in-v
 collection: publications
 permalink: /publication/2021-01-01-Mixseq: mixture sequencing using compressed sensing for in-situ and in-vitro applications (Patent)
 date: 2021-01-01
-venue: '<i>US Patent App. PCT/US2020/066,853</i>'
+venue: 'US Patent App. PCT/US2020/066,853'
 paperurl: 'http://agvaughan.github.io/files/Vaughan_MIXSEQ_WO2021133911A1.pdf'
 citation: 'AM Zador, <b>AG Vaughan</b>'
 ---

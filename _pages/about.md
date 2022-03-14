@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-Alex Vaughan
-======
-
 I work across Biotech and Tech, with a core goal of using computational and biological tools to change the world in intersting ways.
 
 
