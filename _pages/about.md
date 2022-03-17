@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-I work across Biotech and Tech, with a core goal of using computational and biological tools to change the world in intersting ways.
+I'm a neuroscientist and computational biologist who has worked across a wide variety of fields: decision-making, computational image processing, biotech strategy, and ethical AI.
+These days I work across both biotech and tech, with a core goal of using computational tools to change the world in intersting ways.
 
 
 Experience
@@ -33,3 +34,7 @@ Recent Projects
 - Bayesian modeling of the real-wold impact of model metrics on AI fariness
 - Deep learning models for subspace mapping
 - Model-based inference about how neuronal computation is implemented in the brain. 
+
+Contact
+-------
+alex@vaughanlab.org
