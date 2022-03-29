@@ -41,4 +41,4 @@ Recent Projects
 
 Contact
 -------
-alex@vaughanlab.org
+alex@vaughan.bio
