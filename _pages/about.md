@@ -9,8 +9,12 @@ redirect_from:
 ---
 
 
-I'm a neuroscientist and computational biologist who has worked across a wide variety of fields: decision-making, computational image processing, biotech strategy, and ethical AI.
-These days I work across both biotech and tech, with a core goal of using computational tools to change the world in intersting ways.
+I'm a neuroscientist and computational biologist, with a deep love of old papers and new tools. 
+
+I work across a wide variety of fields:  
+- strategic decision-making for business and technical roadmaps in both tech and biotech
+- ML and deep learning for bioinformatics in microscopy, molecular biology, and neuroscience
+- breaking new ground in ethical and explainable AI.
 
 
 Experience
